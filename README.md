@@ -1,4 +1,6 @@
-# Amazon-Clone
+## Deploy link
+
+## https://fastidious-taiyaki-bc7e7a.netlify.app/
 
 # Getting Started with Create React App
 
